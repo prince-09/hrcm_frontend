@@ -15,7 +15,7 @@ Ensure you have the following installed on your system:
 
 ```bash
 git clone <repository-url>
-cd hrcm-frontend
+cd hrcm_frontend
 ```
 
 ### 2. Install Dependencies
